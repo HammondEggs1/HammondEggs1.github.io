@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Build Testerino.data.unityweb",
+"asmCodeUrl": "Build Testerino.asm.code.unityweb",
+"asmMemoryUrl": "Build Testerino.asm.memory.unityweb",
+"asmFrameworkUrl": "Build Testerino.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
