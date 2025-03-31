@@ -1,2 +1,2 @@
 # HammondEggs1.github.io
-A bad version of pool
+The file that will become judyjoo.net
